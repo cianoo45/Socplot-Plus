@@ -1,4 +1,4 @@
-# Socplot
+# Socplot-Plus
 
 Socplot-Plus is a tool for Creating Visualizations from the StatsbombPy API, It incorporates code from other tools such as Socplot, passing-networks-in-python
 as well as some custom additions__[WIP]__
